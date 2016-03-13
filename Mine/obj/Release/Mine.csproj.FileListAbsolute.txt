@@ -1,0 +1,11 @@
+D:\Tetris\Mine\obj\Release\ResolveAssemblyReference.cache
+D:\Tetris\Mine\obj\Release\Mine.MineMain.resources
+D:\Tetris\Mine\obj\Release\Mine.Properties.Resources.resources
+D:\Tetris\Mine\obj\Release\Mine.csproj.GenerateResource.Cache
+D:\Tetris\Mine\bin\Release\Mine.exe
+D:\Tetris\Mine\bin\Release\Mine.pdb
+D:\Tetris\Mine\bin\Release\Windows.dll
+D:\Tetris\Mine\bin\Release\Windows.pdb
+D:\Tetris\Mine\obj\Release\Mine.exe
+D:\Tetris\Mine\obj\Release\Mine.pdb
+D:\Tetris\Mine\obj\Release\Mine.MineSetting.resources

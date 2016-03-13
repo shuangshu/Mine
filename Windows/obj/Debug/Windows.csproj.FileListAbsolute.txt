@@ -1,0 +1,10 @@
+D:\Tetris\Windows\obj\Debug\ResolveAssemblyReference.cache
+D:\Tetris\Windows\bin\Debug\Windows.dll
+D:\Tetris\Windows\bin\Debug\Windows.pdb
+D:\Tetris\Windows\obj\Debug\Windows.dll
+D:\Tetris\Windows\obj\Debug\Windows.pdb
+D:\Develop\Tetris\Tetris\Windows\bin\Debug\Windows.dll
+D:\Develop\Tetris\Tetris\Windows\bin\Debug\Windows.pdb
+D:\Develop\Tetris\Tetris\Windows\obj\Debug\Windows.csprojResolveAssemblyReference.cache
+D:\Develop\Tetris\Tetris\Windows\obj\Debug\Windows.dll
+D:\Develop\Tetris\Tetris\Windows\obj\Debug\Windows.pdb

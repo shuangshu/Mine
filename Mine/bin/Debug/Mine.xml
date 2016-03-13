@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <Row>15</Row>
+  <Column>15</Column>
+  <MineNumber>40</MineNumber>
+  <AllowVoice>True</AllowVoice>
+  <AllowColor>True</AllowColor>
+</Setting>

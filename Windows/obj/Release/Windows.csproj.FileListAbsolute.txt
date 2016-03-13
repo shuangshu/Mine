@@ -1,0 +1,5 @@
+D:\Tetris\Windows\obj\Release\ResolveAssemblyReference.cache
+D:\Tetris\Windows\bin\Release\Windows.dll
+D:\Tetris\Windows\bin\Release\Windows.pdb
+D:\Tetris\Windows\obj\Release\Windows.dll
+D:\Tetris\Windows\obj\Release\Windows.pdb
